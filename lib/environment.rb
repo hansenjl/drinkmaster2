@@ -1,4 +1,5 @@
 require "drinkmaster/version"
+require 'pry'
 
 module Drinkmaster
   class Error < StandardError; end
